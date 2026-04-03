@@ -1,0 +1,56 @@
+# German names dictionary (sample)
+# Source: Gesellschaft für deutsche Sprache / Destatis open data
+
+# Given names
+Hans
+Klaus
+Peter
+Thomas
+Michael
+Andreas
+Stefan
+Christian
+Frank
+Markus
+Lukas
+Felix
+Leon
+Paul
+Jonas
+Emma
+Mia
+Hannah
+Lena
+Anna
+Laura
+Julia
+Lisa
+Sarah
+Katharina
+Leonie
+Sophie
+Marie
+Lara
+Jana
+
+# Surnames
+Müller
+Schmidt
+Schneider
+Fischer
+Weber
+Meyer
+Wagner
+Becker
+Schulz
+Hoffmann
+Schäfer
+Koch
+Bauer
+Richter
+Klein
+Wolf
+Schröder
+Neumann
+Schwarz
+Zimmermann

@@ -1,0 +1,69 @@
+# Italian names dictionary — given names and surnames
+# Source: ISTAT open data (https://www.istat.it/it/archivio/nome)
+# Replace this placeholder with the full ISTAT dataset for production use.
+#
+# FORMAT: one name per line (loaded case-insensitively)
+
+# Given names (sample)
+Marco
+Luca
+Andrea
+Giovanni
+Francesco
+Antonio
+Giuseppe
+Roberto
+Stefano
+Alessandro
+Matteo
+Lorenzo
+Davide
+Simone
+Federico
+Maria
+Anna
+Laura
+Sara
+Giulia
+Francesca
+Elena
+Valentina
+Chiara
+Martina
+Sofia
+Alice
+Elisa
+Federica
+Silvia
+
+# Surnames (sample)
+Rossi
+Russo
+Ferrari
+Esposito
+Bianchi
+Romano
+Colombo
+Ricci
+Marino
+Greco
+Bruno
+Gallo
+Conti
+De Luca
+Mancini
+Costa
+Giordano
+Rizzo
+Lombardi
+Moretti
+Barbieri
+Fontana
+Santoro
+Mariani
+Rinaldi
+Caruso
+Ferrara
+Galli
+Martini
+Leone

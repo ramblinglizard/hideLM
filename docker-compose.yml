@@ -1,0 +1,13 @@
+services:
+  hidelm:
+    build: .
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    volumes:
+      # Only needed if VAULT_DB_PATH is set to a file path
+      - vault_data:/app/data
+
+volumes:
+  vault_data:

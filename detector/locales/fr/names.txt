@@ -1,0 +1,56 @@
+# French names dictionary (sample)
+# Source: INSEE open data
+
+# Given names
+Pierre
+Jean
+Michel
+André
+Philippe
+Alain
+Bernard
+François
+Jacques
+Nicolas
+Thomas
+Louis
+Hugo
+Lucas
+Nathan
+Marie
+Jeanne
+Lucie
+Sophie
+Claire
+Isabelle
+Nathalie
+Céline
+Julie
+Camille
+Léa
+Manon
+Chloé
+Emma
+Inès
+
+# Surnames
+Martin
+Bernard
+Dubois
+Thomas
+Robert
+Richard
+Petit
+Durand
+Leroy
+Moreau
+Simon
+Laurent
+Lefebvre
+Michel
+Garcia
+David
+Bertrand
+Roux
+Vincent
+Fournier
