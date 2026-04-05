@@ -10,7 +10,7 @@ class TestFiscalCode:
 
     def test_valid(self, det):
         # Real structure + valid checksum
-        matches = det.find("CF: RSSMRA85M01H501Z")
+        matches = det.find("CF: RSSMRA85M01H501Q")
         assert len(matches) == 1
         assert matches[0].pii_type == "IT_FISCAL_CODE"
 

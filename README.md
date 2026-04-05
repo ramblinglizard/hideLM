@@ -101,6 +101,14 @@ The original values are stored in an in-memory vault keyed by session ID and res
 
 ---
 
+## Security
+
+hideLM has **no built-in authentication**. By default it binds to `localhost:8080` and is only reachable from the same machine — that is the recommended setup.
+
+If you expose hideLM on a network interface (e.g. via Docker with `-p 0.0.0.0:8080:8080` or behind a reverse proxy), you are responsible for adding authentication (API gateway, mTLS, firewall rules). An unauthenticated hideLM instance would let any caller relay requests through your API key.
+
+---
+
 ## Running tests
 
 ```bash
