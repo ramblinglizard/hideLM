@@ -1,6 +1,6 @@
 # hideLM
 
-**Deterministic PII anonymization proxy for LLM APIs — no ML models, regex + math only. GDPR-ready, self-hosted, locale-aware.**
+**Deterministic PII anonymization proxy for LLM APIs — no ML models, only regex + math. GDPR-ready, self-hosted, locale-aware.**
 
 hideLM sits between your application and any external LLM API (OpenAI, Anthropic, Google, etc.). It automatically detects and replaces sensitive data before the request leaves your network, then restores the original values in the response — transparently, with zero changes to your existing code.
 
